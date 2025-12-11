@@ -116,7 +116,7 @@
     },
     {
       "name": "lints",
-      "version": "4.0.0",
+      "version": "6.0.0",
       "dependencies": []
     },
     {
@@ -130,14 +130,14 @@
     },
     {
       "name": "flutter_lints",
-      "version": "4.0.0",
+      "version": "6.0.0",
       "dependencies": [
         "lints"
       ]
     },
     {
       "name": "flutter_launcher_icons",
-      "version": "0.13.1",
+      "version": "0.14.4",
       "dependencies": [
         "args",
         "checked_yaml",

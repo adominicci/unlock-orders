@@ -153,15 +153,15 @@
     },
     {
       "name": "flutter_launcher_icons",
-      "rootUri": "file:///Users/andresdominicci/.pub-cache/hosted/pub.dev/flutter_launcher_icons-0.13.1",
+      "rootUri": "file:///Users/andresdominicci/.pub-cache/hosted/pub.dev/flutter_launcher_icons-0.14.4",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///Users/andresdominicci/.pub-cache/hosted/pub.dev/flutter_lints-4.0.0",
+      "rootUri": "file:///Users/andresdominicci/.pub-cache/hosted/pub.dev/flutter_lints-6.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.8"
     },
     {
       "name": "flutter_localizations",
@@ -303,9 +303,9 @@
     },
     {
       "name": "lints",
-      "rootUri": "file:///Users/andresdominicci/.pub-cache/hosted/pub.dev/lints-4.0.0",
+      "rootUri": "file:///Users/andresdominicci/.pub-cache/hosted/pub.dev/lints-6.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.8"
     },
     {
       "name": "logging",

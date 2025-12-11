@@ -68,7 +68,7 @@ class FFAppState extends ChangeNotifier {
   Color get tabColorSelected => _tabColorSelected;
   set tabColorSelected(Color value) {
     _tabColorSelected = value;
-    prefs.setInt('ff_tabColorSelected', value.value);
+    prefs.setInt('ff_tabColorSelected', value.toARGB32());
   }
 }
 
